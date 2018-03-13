@@ -18,7 +18,7 @@ import javafx.stage.Stage;
  * @author Science Fidelity
  */
 public class Helloworld extends Application {
-    
+    //primary stage
     @Override
     public void start(Stage primaryStage) {
         Button btn = new Button();
